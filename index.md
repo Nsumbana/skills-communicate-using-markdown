@@ -11,3 +11,6 @@ $ git init
 var myVar = "Hello, world!";
 ```
 
+- [ ] Review all GitHub task
+- [ ] Finalize the full task list
+- [ ] return to original pull request
